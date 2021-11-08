@@ -8,4 +8,4 @@ Presentación de los integrantes
 
 Edwin Alberto Bermudez Ardila: soy de cali, tengo 30 años, soy tecnologo en sistemas y actualmente estoy terminando la ingenieria de sistemas. en este proyecto tengo el rol de Product Owner
 
-\n David Ricardo Rozo: Tengo 19 años, vivo en Bogotá. Actualmente estudiando Ingeniería Electrónica en la Pontificia Universidad Javeriana. Desarrollador actualmente.
+David Ricardo Rozo: Tengo 19 años, vivo en Bogotá. Actualmente estudiando Ingeniería Electrónica en la Pontificia Universidad Javeriana. Desarrollador actualmente.
