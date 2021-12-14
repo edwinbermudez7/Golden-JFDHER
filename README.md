@@ -7,3 +7,6 @@ Proyecto. Construir una aplicación móvil para dispositivos Android usando el l
 Presentación de los integrantes
 
 Edwin Alberto Bermudez Ardila: soy de cali, tengo 30 años, soy tecnologo en sistemas y actualmente estoy terminando la ingenieria de sistemas. en este proyecto tengo el rol de Product Owner
+
+Felipe López Ramírez: Tengo 33 años, vivo en Rionegro Antioquia, soy tecnologo agrícola y músico independiente.Tengo el rol de Scrum Master.
+
