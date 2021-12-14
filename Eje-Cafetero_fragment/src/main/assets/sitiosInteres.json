@@ -1,60 +1,28 @@
 {
   "sitiosInteres": [
     {
-      "nombre": "Catedral",
-      "descripcion": "Templo religioso de culto católico bajo la advocación de San Lorenzo mártir, está ubicada en la zona céntrica de la ciudad de Duitama (Colombia) y pertenece al gran conjunto de templos que se encuentran en el centro de la ciudad; en el caso de la catedral, frente al Parque de los Libertadores.",
+      "nombre": "Valle del Cocora",
+      "descripcion": "La Reserva Natural Valle de Cocora donde la madre naturaleza permite al turista contemplar y sentir el fresco clima que le acaricia la piel, el aire y la exótica flora invitan a caminar. Cocora es una de las varias zonas de acceso al Parque Natural de los Nevados, donde los amantes de la naturaleza y las alturas saben encontrar las delicias del silencio arrullados por la extensa compañía del viento. La Reserva Natural Valle del Cócora, es la cuna del árbol emblemático de Colombia; La Palma de Cera, y se considera zona amortiguadora del Parque Nacional Natural Los Nevados, es decir, delimita el espacio con el fin de impedir daños a sus al rededores. Este es el destino ideal para todos aquellos que disfrutan los espacios naturales y se enorgullecen al admirar el verde de las montañas en su estado más activo. Aquí tendrás la posibilidad de realizar caminatas, o si lo prefieres realizar los recorridos a caballo.",
       "puntuacion": 4,
-      "urlpicture": "https://i.pinimg.com/originals/1a/72/14/1a72140f0a810a446a37ed05e2a02f36.jpg",
-      "latitud": "5.8282788",
-      "longitud": "73.0363413"
+      "urlpicture": "https://www.whereismykiwi.com/wp-content/uploads/2020/04/portada-valle-del-cocora-xl.jpg",
+      "latitud": "5.8286615",
+      "longitud": "-73.0347561"
     },
     {
-      "nombre": "Sendero la Zarza",
-      "descripcion": "El sendero ecológico la zarza es un conjunto de caminos indígenas y de herradura que parte de un ecosistema de bosque andino; en sus inmediaciones cruza un pequeño río, pasando por una alta cascada rocosa, para finalizar en un ecosistema de páramo.\n\n Antes de mediados del siglo pasado estos senderos eran un corredor importante para la comunicación entre los habitantes de Santander con la región de Tundama en Boyacá y los llanos orientales.\n\nEn este lugar se podrá disfrutar de la cultura de la región, el ecoturismo además de la conservación del medio ambiente en un ecosistema de bosque alto andino, subpáramo y páramo que permitirán vivir una experiencia inolvidable a las personas que disfrutan de la naturaleza.\n\nEl sendero ecológico la zarsa está ubicado en la vereda la trinidad a 7.5 km de la cabecera municipal de Duitama - Boyacá y a una altitud entre 2650 a 3550 m.s.n.m.\n",
+      "nombre": "Parque nacional los nevados",
+      "descripcion": "En esta reserva de 58.300 ha es posible practicar actividades como ciclomontañismo, senderismo, observación de flora y fauna, y escalada en hielo y en roca. Algunas aves que habitan el parque son el colibrí de páramo (endémico de la región), el águila crestada, el pato andino, la perdiz colorada y el cóndor.",
       "puntuacion": 5,
-      "urlpicture": "https://descubreboyaca.com/wp-content/uploads/2019/12/sendero-la-zarza-duitama-e1576800614511.jpg",
+      "urlpicture": "https://cdn.colombia.com/sdi/2014/01/04/parque-nacional-natural-los-nevados-autentica-emocion-natural-853808-1.webp",
       "latitud": "5.854518",
       "longitud": "-73.0956871"
     },
     {
-      "nombre": "Pueblito boyacence",
-      "descripcion": "En 1.995, se constituyó en realidad por la creatividad del compositor y periodista José Ricardo Bautista Pamplona, con el apoyo de la administración central",
+      "nombre": "Parque Nacional de la Cultura Agropecuaria PANACA.",
+      "descripcion": "El parque Panaca en el Eje Cafetero es la finca más grande de los colombianos y su propósito es recordarle a grandes y pequeños que “sin campo no hay ciudad”.",
       "puntuacion": 5,
-      "urlpicture": "https://descubreboyaca.com/wp-content/uploads/2019/11/pueblito-boyacense.jpg",
-      "latitud": "5.8251848",
-      "longitud": "-73.0209157"
-    },
-    {
-      "nombre": "Páramo Pan de azucar",
-      "descripcion": " Localizado al norte del municipio, el páramo pan de azúcar es de gran importancia por la cantidad de fuentes hídricas que emergen de él. Entre el principal se encuentra el río la Surba, la cual es una de las principales fuentes hídricas que surten de agua a la población del municipio.\n\nEl páramo cuenta con distintos atractivos turísticos, como la laguna pan de azúcar, donde a partir del sendero que conduce a la laguna podrá observar la quebrada Andalucía, caracterizada por formar una cascada de gran altura, los humedales Andalucía y la quebrada de parrales con una caída libre de 10 metros de alto. Otro de los atractivos del páramo es el mirador del Río Surba, del cual se podrá observar el río Suba, humedales y afloramientos de tierra. \n\nEl mirador de piedra, se localiza en lo más alto del sendero desde el cual podrá observar la superficie de la cuenca del río Pan de azúcar y el río Surba.\n",
-      "puntuacion": 5,
-      "urlpicture": "https://s2.wklcdn.com/image_84/2534239/30550905/19581407.jpg",
-      "latitud": "5.8790244",
-      "longitud": "-73.0732608"
-    },
-    {
-      "nombre": "Páramo de La Rusia",
-      "descripcion": "Está situado en el lado occidental de la cordillera oriental entre los 3.100 y 4.280 metros sobre el nivel del mar y forma parte de un corredor de extensos páramos y bosques andinos conocido como Guantiva-La Rusia.",
-      "puntuacion": 4,
-      "urlpicture": "https://live.staticflickr.com/2778/4129511103_996b825262_b.jpg",
-      "latitud": "5.8832122",
-      "longitud": "-73.0964359"
-    },
-    {
-      "nombre": "Monumento a Los Lanceros",
-      "descripcion": "Se le considera el monumento más grande de Colombia y en él se destaca la carga de los 14 lanceros al mando del Coronel Juan José Rondón.",
-      "puntuacion": 3,
-      "urlpicture": "https://elturismoencolombia.com/wp-content/uploads/2018/12/monumento_lanceros_pantano_vargas_boyaca_colombia5.jpg",
-      "latitud": "5.7391238",
-      "longitud": "-73.0740441"
-    },
-    {
-      "nombre": "Parque Los Libertadores",
-      "descripcion": "Conserva en el centro un árbol que ha sido testigo de desarrollo de la ciudad y que según dicen los historiadores, en él se recostaba a descansar el Cacique Tundama",
-      "puntuacion": 3,
-      "urlpicture": "https://situr.boyaca.gov.co/wp-content/uploads/2017/07/parque-libertadores.png",
-      "latitud": "5.8276785",
-      "longitud": "-73.0361705"
+      "urlpicture": "https://cdn.colombia.com/sdi/2013/12/10/parque-nacional-de-la-cultura-agropecuaria-panaca-755178.jpg",
+      "latitud": "5.8250662",
+      "longitud": "-73.018843"
     }
   ]
 }
