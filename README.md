@@ -10,3 +10,4 @@ Edwin Alberto Bermudez Ardila: soy de cali, tengo 30 años, soy tecnologo en sis
 
 Felipe López Ramírez: Tengo 33 años, vivo en Rionegro Antioquia, soy tecnologo agrícola y músico independiente.Tengo el rol de Scrum Master.
 
+David Ricardo Rozo: Tengo 19 años, vivo de Bogotá. Estudio Ingenieria Electrónica en la Javeriana. 
